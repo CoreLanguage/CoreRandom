@@ -1,0 +1,13 @@
+# Core project manifest - see docs/packages/manifest.md
+[package]
+name = "CoreRandom"
+version = "0.1.0"
+core-version = ">=0.1.0"
+source-dir = "src"
+
+[build]
+# native libraries to link: link = ["m"]
+link = []
+
+[dependencies]
+# example: coolmath = "github.com/snitch/coolmath@^1.2.0"

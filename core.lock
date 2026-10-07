@@ -1,0 +1,3 @@
+# Core lockfile - records exact resolved dependency versions.
+# Managed by the core toolchain; do not edit by hand while builds are in flight.
+# No dependencies yet. Packages installed with `core install` appear here.

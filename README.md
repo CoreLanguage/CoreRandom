@@ -1,2 +1,2 @@
 # CoreRandom
-A Library to generate random value in Core.
+A Library to generate random string in Core.

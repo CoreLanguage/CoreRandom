@@ -6,8 +6,3 @@ answer: u64 = seed * 564746 + 7659466596
 
 return answer
 }
-
-func main() {
-num: u64 = number()
-say(num)
-}
